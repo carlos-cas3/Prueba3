@@ -1,0 +1,40 @@
+{
+  "vaccines": [
+    {
+      "patient": "123",
+      "name": "Moderna",
+      "kit": "16",
+      "lote": "415"
+    },
+    {
+      "patient": "123",
+      "name": "Moderna",
+      "kit": "68",
+      "lote": "153"
+    },
+    {
+      "patient": "123",
+      "name": "Pfizer",
+      "kit": "77",
+      "lote": "489"
+    },
+    {
+      "patient": "456",
+      "name": "Pfizer",
+      "kit": "98",
+      "lote": "415"
+    },
+    {
+      "patient": "456",
+      "name": "Pfizer",
+      "kit": "77",
+      "lote": "489"
+    },
+    {
+      "patient": "789",
+      "name": "Pfizer",
+      "kit": "01",
+      "lote": "156"
+    }
+  ]
+}

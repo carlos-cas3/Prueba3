@@ -1,0 +1,55 @@
+{
+  "patients": [
+    {
+      "codPatient": "123",
+      "vaccinesPatient": [
+        {
+          "name": "Moderna",
+          "kit": "16",
+          "lote": "415"
+        },
+        {
+          "name": "Moderna",
+          "kit": "68",
+          "lote": "153"
+        },
+        {
+          "name": "Pfizer",
+          "kit": "77",
+          "lote": "489"
+        }
+      ],
+      "name": "Carlos",
+      "nroDoc": "12"
+    },
+    {
+      "codPatient": "456",
+      "vaccinesPatient": [
+        {
+          "name": "Pfizer",
+          "kit": "98",
+          "lote": "415"
+        },
+        {
+          "name": "Pfizer",
+          "kit": "77",
+          "lote": "489"
+        }
+      ],
+      "name": "Juan",
+      "nroDoc": "34"
+    },
+    {
+      "codPatient": "789",
+      "vaccinesPatient": [
+        {
+          "name": "Pfizer",
+          "kit": "01",
+          "lote": "156"
+        }
+      ],
+      "name": "Gabriel",
+      "nroDoc": "56"
+    }
+  ]
+}
